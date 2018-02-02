@@ -7,5 +7,5 @@ npm-debug.log
 
 # project
 .tmp
-lib
+# lib
 logs
